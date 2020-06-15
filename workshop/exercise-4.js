@@ -8,3 +8,7 @@
 for (let number = 0; number < 12; number++) {
   console.log('the square of ', number, ' is ', square);
 }
+
+for(let number = 0; number <= 12; number++) {
+  console.log('the square of', number, 'is', number*number)
+}
